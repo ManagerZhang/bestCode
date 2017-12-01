@@ -1,2 +1,2 @@
 # bestCode
-The greatest programming xxx
+The greatest programming
